@@ -1,0 +1,4 @@
+# Copy this file to .env and replace the values below-
+
+# The MAC address of the board, will be used to connect to via bluetooth
+BOARD_MAC=00:00:00:00:00:00
